@@ -1,7 +1,13 @@
-# 亚星小子
+# 👋 
 
 
-## 社交媒体
+## About me
+
+
+
+
+
+## Social Media
 
 <img src="../assets/wechat.svg" width="50" >&nbsp;
 <img src="../assets/bilibili.svg" width="50" > &nbsp;
@@ -12,6 +18,9 @@
 <img src="../assets/instagram.svg" width="54">
 
 
-## 产品矩阵
+## Products
+
+
+## Latest News
 
 
