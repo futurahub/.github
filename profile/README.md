@@ -1,10 +1,10 @@
 # 👋 
 
 
-## About me
+## 关于我
 
 
-## Social Media
+## 社交平台
 
 <img src="../assets/wechat.svg" width="36" title="wechat"> &nbsp;
 <img src="../assets/bilibili.svg" width="36" title="bilibili"> &nbsp;
@@ -14,9 +14,9 @@
 <img src="../assets/youtube.webp" width="36" title="youtube"> &nbsp;
 <img src="../assets/x.png" width="34" title="x(twitter)">
 
-## Products
+## 产品
 
 
-## Latest News
+## 最新动态
 
 
