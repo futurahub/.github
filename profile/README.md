@@ -1,10 +1,11 @@
 # 👋 
 
+<samp>$ cat bio.md</samp>
 
-<samp>About me</samp>
 
 
-<samp>Connect</samp>
+
+<samp>$ ls connects</samp>
 
 <img src="../assets/wechat.svg" width="36" title="wechat"> &nbsp;
 <img src="../assets/bilibili.svg" width="36" title="bilibili"> &nbsp;
@@ -15,9 +16,15 @@
 <img src="../assets/youtube.webp" width="36" title="youtube"> &nbsp;
 <img src="../assets/x.png" width="35" title="x(twitter)">
 
-<samp>Projects</samp>
+<samp>$ ls -l projects</samp>
+
+| Logo | Name | ReleaseDate | Version | Description |
+| ----- | ----- | -----  | ----- | ----- |
 
 
-<samp>Latest News</samp>
+<samp>$ tail -5f news.md</samp>
+
+
+
 
 
