@@ -1,10 +1,10 @@
 # 👋 
 
 
-### About me
+<samp>About me</samp>
 
 
-### Connect
+<samp>Connect</samp>
 
 <img src="../assets/wechat.svg" width="36" title="wechat"> &nbsp;
 <img src="../assets/bilibili.svg" width="36" title="bilibili"> &nbsp;
@@ -15,9 +15,9 @@
 <img src="../assets/youtube.webp" width="36" title="youtube"> &nbsp;
 <img src="../assets/x.png" width="35" title="x(twitter)">
 
-### Projects
+<samp>Projects</samp>
 
 
-### Latest News
+<samp>Latest News</samp>
 
 
