@@ -1,10 +1,10 @@
 # 👋 
 
 
-### 关于我
+### About me
 
 
-### 社交平台
+### Connect
 
 <img src="../assets/wechat.svg" width="36" title="wechat"> &nbsp;
 <img src="../assets/bilibili.svg" width="36" title="bilibili"> &nbsp;
@@ -15,9 +15,9 @@
 <img src="../assets/youtube.webp" width="36" title="youtube"> &nbsp;
 <img src="../assets/x.png" width="35" title="x(twitter)">
 
-### 产品
+### Projects
 
 
-### 最新动态
+### Latest News
 
 
